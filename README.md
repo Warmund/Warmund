@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Warmund
-- 👀 I’m interested in Sports
-- 🌱 I’m currently learning git and Programming
+- 👋 Hi, I’m Patrick
+- 👀 I’m interested in Sports (like Climbing or MTB) 
+- 🌱 I’m currently learning PyTorch & Autoencoder 
 - 📫 How to reach me: DM 
 
 <!---
